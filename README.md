@@ -1,6 +1,6 @@
 # Loops Questions
-## For Questions
-### Questions
+## JS Classic Iteration((for, for in, for of) - while - do while)
+### For Questions
 ```
 1- Can you make a program that prints hello 10 times?
 ```
